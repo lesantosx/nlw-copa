@@ -9,5 +9,19 @@
 
 <h1>:computer: Technologies</h1>
 
-BACKEND
-- dd
+:round_pushpin: BACK-END
+- Node.Js
+- Prisma
+- Fastify
+- TypeScript
+
+:round_pushpin: FRONT-END
+- React
+- NextJS
+- TypeScript
+
+:iphone: MOBILE
+- React Native 
+- Expo
+- TypeScript
+
