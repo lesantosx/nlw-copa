@@ -6,7 +6,7 @@
 
 <h1>:computer: Technologies</h1>
 
-:round_pushpin: BACK-END
+:wrench: BACK-END
 - Node.Js
 - Prisma
 - Fastify
