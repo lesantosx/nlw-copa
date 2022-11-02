@@ -8,7 +8,7 @@
 <h1>:computer: Technologies</h1>
 
 :wrench: <b>BACK-END</b>
-- Node.Js
+- Node.js
 - Prisma
 - Fastify
 - TypeScript
