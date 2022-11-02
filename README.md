@@ -24,7 +24,7 @@
 
 <h1>Prototype</h1>
 :pushpin: <a href="https://www.figma.com/community/file/1169028343875283461">Figma</a>
-<br />
+<br /><br />
 
 ![capa-nlw](https://user-images.githubusercontent.com/20993374/199374042-c1ee8ae9-e707-4705-8327-01719f6fdf7f.png)
 
