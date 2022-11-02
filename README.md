@@ -25,5 +25,6 @@
 - Expo
 - TypeScript
 
-<h1>Prototype</h1>: ![Figma](https://www.figma.com/community/file/1169028343875283461)
+<h1>Prototype</h1>: 
+<a href="https://www.figma.com/community/file/1169028343875283461">Figma</a>
 
