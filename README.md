@@ -1,9 +1,8 @@
 # NLW - Copa
 
-![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
-
-<h1>Project Summary</h1>
 <p>Project to create 2022 World Cup bets.</p>
+
+![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
 <h1>:computer: Technologies</h1>
 
