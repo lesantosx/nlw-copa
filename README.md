@@ -1,7 +1,5 @@
 # NLW - Copa
 
-![NWL - COPA](https://user-images.githubusercontent.com/20993374/199371914-89fc9a1c-93f6-4080-a640-c8d41547147a.png)
-
 ![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
 <h1>Project Summary</h1>
@@ -27,4 +25,5 @@
 
 <h1>Prototype</h1>: 
 <a href="https://www.figma.com/community/file/1169028343875283461">Figma</a>
+![capa-nlw](https://user-images.githubusercontent.com/20993374/199374042-c1ee8ae9-e707-4705-8327-01719f6fdf7f.png)
 
