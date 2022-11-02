@@ -1,6 +1,6 @@
 # NLW - Copa
 
-<p>Project to create 2022 World Cup bets.</p>
+<p>:coffee: Project to create 2022 World Cup bets. :coffee:</p>
 
 ![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
@@ -12,7 +12,7 @@
 - Fastify
 - TypeScript
 
-:round_pushpin: FRONT-END
+:art: FRONT-END
 - React
 - NextJS
 - TypeScript
