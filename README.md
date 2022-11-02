@@ -1,6 +1,7 @@
 # NLW - Copa
 
 <p>:coffee: Project to create 2022 World Cup bets. :coffee:</p>
+<br />
 
 ![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
@@ -21,6 +22,8 @@
 - React Native 
 - Expo
 - TypeScript
+
+<br />
 
 <h1>Prototype</h1>
 :pushpin: <a href="https://www.figma.com/community/file/1169028343875283461">Figma</a>
