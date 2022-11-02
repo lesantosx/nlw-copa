@@ -7,18 +7,18 @@
 
 <h1>:computer: Technologies</h1>
 
-:wrench: BACK-END
+:wrench: <b>BACK-END</b>
 - Node.Js
 - Prisma
 - Fastify
 - TypeScript
 
-:art: FRONT-END
+:art: <b>FRONT-END</b>
 - React
 - NextJS
 - TypeScript
 
-:iphone: MOBILE
+:iphone: <b>MOBILE</b>
 - React Native 
 - Expo
 - TypeScript
