@@ -43,7 +43,7 @@ model User {
   email     String @unique
   avatarUrl String?
   createAt  DateTime @default(now())
-
+  googleId  String? @unique
   participatingAt Participant[]
   ownPools        Pool[]
 }
@@ -59,7 +59,7 @@ model Game {
 
 model Guess {
   id    String @id @default(cuid())
-  fistTeamPoints   Int
+  firstTeamPoints   Int
   secondTeamPoints Int
   createAt         DateTime @default(now())
   gameId           String
@@ -67,4 +67,6 @@ model Guess {
 
   participant Participant @relation(fields: [participantId], references: [id])
   game         Game        @relation(fields: [gameId], references: [id])
+
+  @@unique([participantId, gameId])
 }
