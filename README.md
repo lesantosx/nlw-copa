@@ -8,25 +8,25 @@
 <h1>:computer: Technologies</h1>
 
 :wrench: <b>BACK-END</b>
-- Node.js
-- Prisma
-- Fastify
-- TypeScript
+- <a href="https://nodejs.org/en/docs/">Node.js</a> 
+- <a href="https://www.prisma.io/">Prisma</a> 
+- <a href="https://www.fastify.io/">Fastify</a> 
+- <a href="https://www.typescriptlang.org/">TypeScript</a> 
 
 :art: <b>FRONT-END</b>
-- React
-- NextJS
-- TypeScript
+- <a href="https://pt-br.reactjs.org/">React</a> 
+- <a href="https://nextjs.org/">NextJS</a> 
+- <a href="https://www.typescriptlang.org/">TypeScript</a> 
 
 :iphone: <b>MOBILE</b>
-- React Native 
-- Expo
-- TypeScript
+- <a href="https://reactnative.dev/">React Native</a> 
+- <a href="https://expo.dev/">Expo</a>
+- <a href="https://www.typescriptlang.org/">TypeScript</a>
 - <a href="https://docs.expo.dev/guides/authentication/#google">Authentication with Google Account</a>
 
 <br />
 
-<h1>Prototype</h1>
+<h1>:art: Prototype</h1>
 :pushpin: <a href="https://www.figma.com/community/file/1169028343875283461">Figma</a>
 <br /><br />
 
