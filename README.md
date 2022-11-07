@@ -22,7 +22,7 @@
 - React Native 
 - Expo
 - TypeScript
-- Authentication with Google Account
+- <a href="https://docs.expo.dev/guides/authentication/#google">Authentication with Google Account</a>
 
 <br />
 
