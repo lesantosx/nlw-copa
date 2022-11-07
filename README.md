@@ -22,6 +22,7 @@
 - React Native 
 - Expo
 - TypeScript
+- Authentication with Google Account
 
 <br />
 
