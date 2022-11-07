@@ -3,7 +3,7 @@
 <p>:coffee: Project developed at the NLW Copa by Rocketseat's Ignite trail | 2022 World Cup bets :coffee:</p>
 <br />
 
-![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
+![Badge in developmen](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge)
 
 <h1>:computer: Technologies</h1>
 
